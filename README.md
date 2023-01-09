@@ -4,7 +4,7 @@ Performed Exploratory Data Analysis on publicly available COVID-19 data.
 
 Data was downloaded from - [Our World in Data](https://ourworldindata.org/covid-deaths) as a CSV file.
 
-The data was split into two tables - Covid Deaths & Covid Vaccinations.
+The data was then split into two tables - Covid Deaths & Covid Vaccinations.
 
 Using SQL the data was then queried and various operations were performed to explore the dataset.
 
